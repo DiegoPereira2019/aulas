@@ -5,11 +5,11 @@
 
 ## 0. Visão geral do projeto
 
-* **Nome do Software**: Lista de Tarefas Pessoal (ToDoApp)
+* **Nome do Software**: PetVille Resort 
 * **Versão:** 1.0
 * **Data:** 01/07/2025
-* **Autor(es):** Fulano, Beltrano, Cicrano
-* **Aprovado por:** Beltrano
+* **Autor(es):Diego Vinicius , Rodrigo da Silva 
+
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 1.1 Propósito
 
-Este documento descreve os requisitos funcionais e não funcionais do sistema **ToDoApp**, uma aplicação de lista de tarefas com interface gráfica, focada na organização pessoal do usuário.
+Este documento descreve os requisitos funcionais e não funcionais do sistema **PetVille Resort**, uma aplicação de lista de tarefas com interface gráfica, focada na organização pessoal do usuário.
 
 ### 1.2 Escopo
 
